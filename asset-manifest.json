@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-ig-ui/static/css/main.ae71d505.css",
+    "main.js": "/react-ig-ui/static/js/main.2c69bd20.js",
+    "index.html": "/react-ig-ui/index.html",
+    "main.ae71d505.css.map": "/react-ig-ui/static/css/main.ae71d505.css.map",
+    "main.2c69bd20.js.map": "/react-ig-ui/static/js/main.2c69bd20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae71d505.css",
+    "static/js/main.2c69bd20.js"
+  ]
+}
