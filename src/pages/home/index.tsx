@@ -4,6 +4,9 @@ import './App.css';
 const Home: React.FC = () => {
   return (
     <div className="App">
+      <div className="w-full flex justify-center mt-20">
+        tailwindcss
+      </div>
       <header className="App-header">
         <Counter />
         <p>
