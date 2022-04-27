@@ -5,6 +5,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [Route Objects Example](https://reactrouter.com/docs/en/v6/examples/route-objects)  
 [tailwindcss](https://tailwindcss.com/docs/installation)
 
+## Deploy
+
+react-ig-ui\package.json
+
+```js
+  "homepage": "https://jacobhsu.github.io/react-ig-ui",
+```
+
+```js
+  Local:  http://localhost:3000/react-ig-ui  
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
