@@ -13,7 +13,12 @@ const routes: RouteObject[] = [
   {
     path: `/${PUBLIC_PATH}`,
     element: <Home />,
-    children: [],
+    children: [
+      {
+        path: `/${PUBLIC_PATH}/following`,
+        element: <Following />,
+      },
+    ],
   },
   {
     path: `/${PUBLIC_PATH}/following`,
