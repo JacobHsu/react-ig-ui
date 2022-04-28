@@ -6,6 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [tailwindcss](https://tailwindcss.com/docs/installation)  
 [json-server](https://github.com/typicode/json-server) 
 
+  "homepage": "https://jacobhsu.github.io/react-ig-ui",
+
 ## Deploy
 
 react-ig-ui\package.json
