@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
 
 [Route Objects Example](https://reactrouter.com/docs/en/v6/examples/route-objects)  
-[tailwindcss](https://tailwindcss.com/docs/installation)
+[tailwindcss](https://tailwindcss.com/docs/installation)  
+[json-server](https://github.com/typicode/json-server) 
 
 ## Deploy
 

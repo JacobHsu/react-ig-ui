@@ -2,7 +2,7 @@ import type { RouteObject } from "react-router-dom";
 import Home from "./pages/home";
 import Following from "./pages/following";
 import NotFound from "./pages/notFound";
-import { PUBLIC_PATH } from "./config";
+// import { PUBLIC_PATH } from "./config";
 
 const routes: RouteObject[] = [
   {
@@ -16,7 +16,7 @@ const routes: RouteObject[] = [
   //   children: [],
   // },
   {
-    path: `/following`,
+    path: "/following",
     element: <Following />,
     children: [],
   },
