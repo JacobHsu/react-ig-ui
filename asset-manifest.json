@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-ig-ui/static/css/main.591821d0.css",
-    "main.js": "/react-ig-ui/static/js/main.639be8a9.js",
-    "index.html": "/react-ig-ui/index.html",
-    "main.591821d0.css.map": "/react-ig-ui/static/css/main.591821d0.css.map",
-    "main.639be8a9.js.map": "/react-ig-ui/static/js/main.639be8a9.js.map"
+    "main.css": "/static/css/main.229818b0.css",
+    "main.js": "/static/js/main.29ae3d3d.js",
+    "index.html": "/index.html",
+    "main.229818b0.css.map": "/static/css/main.229818b0.css.map",
+    "main.29ae3d3d.js.map": "/static/js/main.29ae3d3d.js.map"
   },
   "entrypoints": [
-    "static/css/main.591821d0.css",
-    "static/js/main.639be8a9.js"
+    "static/css/main.229818b0.css",
+    "static/js/main.29ae3d3d.js"
   ]
 }
