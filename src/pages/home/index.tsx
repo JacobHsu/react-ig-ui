@@ -1,4 +1,5 @@
 // import { Counter } from '../../features/counter/Counter';
+import IGContainer from "../../components/IGContainer";
 import IGHeader from "../../components/IGHeader";
 import './App.css';
 
@@ -6,6 +7,16 @@ const Home: React.FC = () => {
   return (
     <>
       <IGHeader />
+      <IGContainer>
+        <div className="flex lg:justify-center">
+          <div className="w-full lg:w-[600px]">
+              IGStory
+          </div>
+          <div className="hidden lg:block lg:w-[424px]">
+              IGProfile
+          </div>
+        </div>
+      </IGContainer>
       {/* <div className="App">
         <div className="flex justify-center w-full mt-20">
           tailwindcss
