@@ -1,6 +1,7 @@
 // import { Counter } from '../../features/counter/Counter';
 import IGContainer from "../../components/IGContainer";
 import IGHeader from "../../components/IGHeader";
+import IGStory from "./components/IGStory";
 import './App.css';
 
 const Home: React.FC = () => {
@@ -10,7 +11,7 @@ const Home: React.FC = () => {
       <IGContainer>
         <div className="flex lg:justify-center">
           <div className="w-full lg:w-[600px]">
-              IGStory
+              <IGStory />
           </div>
           <div className="hidden lg:block lg:w-[424px]">
               IGProfile

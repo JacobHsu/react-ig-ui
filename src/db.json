@@ -1,0 +1,111 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "location": "屏東",
+      "account": "iuh",
+      "avatar": "/images/avatars/a1.png",
+      "photo": "/images/posts/main1.png",
+      "likes": 999,
+      "description": "東港",
+      "hashTags": "#hashTags",
+      "createTime": "1 HOURS AGO"
+    },
+    {
+      "id": 2,
+      "location": "台南",
+      "account": "tnn",
+      "avatar": "/images/avatars/a2.png",
+      "photo": "/images/posts/main2.png",
+      "likes": 333,
+      "description": "西港",
+      "hashTags": "#hashTags",
+      "createTime": "5 HOURS AGO"
+    },
+    {
+      "id": 3,
+      "location": "台北",
+      "account": "tpe",
+      "avatar": "/images/avatars/a3.png",
+      "photo": "/images/posts/main3.png",
+      "likes": 777,
+      "description": "南港",
+      "hashTags": "#hashTags",
+      "createTime": "6 HOURS AGO"
+    },
+    {
+      "id": 4,
+      "location": "雲林",
+      "account": "ylh",
+      "avatar": "/images/avatars/a4.png",
+      "photo": "/images/posts/main4.png",
+      "likes": 824,
+      "description": "北港",
+      "hashTags": "#hashTags",
+      "createTime": "7 HOURS AGO"
+    },
+    {
+      "id": 5,
+      "location": "苗栗",
+      "account": "mal",
+      "avatar": "/images/avatars/a5.png",
+      "photo": "/images/posts/main5.png",
+      "likes": 98,
+      "description": "中港",
+      "hashTags": "#hashTags",
+      "createTime": "10 HOURS AGO"
+    }
+  ],
+  "stories": [
+    {
+      "id": 1,
+      "name": "cyi",
+      "avatar": "/images/avatars/a1.png"
+    },
+    {
+      "id": 2,
+      "name": "tnn",
+      "avatar": "/images/avatars/a2.png"
+    },
+    {
+      "id": 3,
+      "name": "khh",
+      "avatar": "/images/avatars/a3.png"
+    },
+    {
+      "id": 4,
+      "name": "iuh",
+      "avatar": "/images/avatars/a4.png"
+    },
+    {
+      "id": 5,
+      "name": "pts",
+      "avatar": "/images/avatars/a5.png"
+    },
+    {
+      "id": 6,
+      "name": "iln",
+      "avatar": "/images/avatars/a6.png"
+    },
+    {
+      "id": 7,
+      "name": "ilc",
+      "avatar": "/images/avatars/a7.png"
+    },
+    {
+      "id": 8,
+      "name": "hwa",
+      "avatar": "/images/avatars/a8.png"
+    },
+    {
+      "id": 9,
+      "name": "ttc",
+      "avatar": "/images/avatars/a9.png"
+    },
+    {
+      "id": 10,
+      "name": "kmn",
+      "avatar": "/images/avatars/a10.png"
+    }
+  ]
+}
