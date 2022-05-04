@@ -2,6 +2,7 @@
 import IGContainer from "../../components/IGContainer";
 import IGHeader from "../../components/IGHeader";
 import IGStory from "./components/IGStory";
+import IGProfile from "./components/IGProfile";
 import './App.css';
 
 const Home: React.FC = () => {
@@ -14,7 +15,7 @@ const Home: React.FC = () => {
               <IGStory />
           </div>
           <div className="hidden lg:block lg:w-[424px]">
-              IGProfile
+              <IGProfile />
           </div>
         </div>
       </IGContainer>
