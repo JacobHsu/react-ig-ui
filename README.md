@@ -10,6 +10,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Install Tailwind CSS with Create React App](https://tailwindcss.com/docs/guides/create-react-app)
 
+## tsconfig
+
+`"baseUrl": "src"`
+
 ## Deploy
 
 react-ig-ui\package.json
