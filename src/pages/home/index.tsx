@@ -4,15 +4,25 @@ import IGHeader from "../../components/IGHeader";
 import IGStory from "./components/IGStory";
 import IGPost from "./components/IGPost";
 import IGProfile from "./components/IGProfile";
+import Loading from "components/Loading";
+import { useGetIGPostsQuery } from "services/homeServices";
 import './App.css';
 import db from  "../../db.json";
 
 const IGPostList: React.FC = () => {
   const { posts } = db;
+  const { data, isLoading } = useGetIGPostsQuery("all");
+  const post = process.env.NODE_ENV === 'production' ? posts : data;
+
   return (
     <>
-      {
-        posts?.map((item) => {
+      {isLoading && (
+        <div className="flex justify-center w-full mt-20">
+          <Loading />
+        </div>
+      )}
+      {!isLoading &&
+        post?.map((item) => {
           const {
             id,
             location,
