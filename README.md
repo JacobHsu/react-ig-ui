@@ -8,7 +8,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## References
 
-[Install Tailwind CSS with Create React App](https://tailwindcss.com/docs/guides/create-react-app)
+[Install Tailwind CSS with Create React App](https://tailwindcss.com/docs/guides/create-react-app)  
+redux-toolkit > Reducers and Actions > [createSlice](https://redux-toolkit.js.org/api/createslice)
+redux-toolkit > API Reference > [createApi](https://redux-toolkit.js.org/rtk-query/api/createApi)  
 
 ## tsconfig
 

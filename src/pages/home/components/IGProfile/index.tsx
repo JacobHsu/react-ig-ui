@@ -1,8 +1,9 @@
 import IGUser from "../../../../components/IGUser";
-import { friends } from "../../../../Friends";
-
+// import { friends } from "../../../../Friends";
+import { useAppSelector } from "../../../../hooks";
 const IGProfile: React.FC = () => {
-
+  const friendReducer = useAppSelector((state) => state.friendReducer);
+  const friends = friendReducer.friends.slice(0, 4);
 
   return (
     <div className="box-border p-2 mt-8 ml-8 shadow-lg">
