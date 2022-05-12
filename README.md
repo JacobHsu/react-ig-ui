@@ -11,6 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [Install Tailwind CSS with Create React App](https://tailwindcss.com/docs/guides/create-react-app)  
 redux-toolkit > Reducers and Actions > [createSlice](https://redux-toolkit.js.org/api/createslice)
 redux-toolkit > API Reference > [createApi](https://redux-toolkit.js.org/rtk-query/api/createApi)  
+[React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related)  profiler > setting [✓] Highlight updates when components render. 
+> components\IGUser.tsx  import { memo } from "react";
 
 ## tsconfig
 
